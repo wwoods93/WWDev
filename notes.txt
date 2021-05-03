@@ -1,0 +1,24 @@
+colors
+
+green:
+#6a8231
+
+background:
+#1e1e1e
+
+purple:
+#746086
+
+#484263
+
+light blue:
+#4c6b7b
+
+red:
+#780a0b
+
+orange:
+#a15809
+
+
+
